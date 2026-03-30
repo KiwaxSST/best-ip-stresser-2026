@@ -1,7 +1,7 @@
 # Best IP Stresser 2026 — BOTLOAD
 
 <p align="center">
-  <img src="https://botload.online/favicon.svg" width="100" alt="BOTLOAD" />
+  <img src="https://raw.githubusercontent.com/KiwaxSST/best-ip-stresser-2026/main/logo.svg" width="100" alt="BOTLOAD" />
 </p>
 
 <p align="center">
