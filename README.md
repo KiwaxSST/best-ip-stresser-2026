@@ -12,7 +12,7 @@
   <a href="https://botload.online">Visit BOTLOAD</a> &bull;
   <a href="https://botload.online/en/plans">View Plans</a> &bull;
   <a href="https://botload.online/en/pentest">AI Pentest</a> &bull;
-  <a href="https://botload.online/en/api-docs">API Docs</a>
+  <a href="https://botload.online/en/api-docs">API Docs</a> 
 </p>
 
 ---
